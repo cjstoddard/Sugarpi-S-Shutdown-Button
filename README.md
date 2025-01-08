@@ -1,4 +1,4 @@
-# Sugarpi-S-Shutdown-Button
+# Sugarpi S Shutdown Button
 Python script to gracefully shutdown a Raspberry Pi using a Sugarpi S battery with the battery button.
 
 > git clone https://github.com/cjstoddard/Sugarpi-S-Shutdown-Button.git
